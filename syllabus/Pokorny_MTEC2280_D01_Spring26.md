@@ -5,9 +5,8 @@ Department of Entertainment Technology
 New York City College of Technology  
 Spring 2026
      
-  
 ## COURSE INFORMATION      
-MTEC 2280 D10      
+MTEC 2280-D01 [11714]      
 Physical Computing   
 
 Professor: Ian Pokorny 
@@ -27,7 +26,6 @@ Office Hours: Tuesday 2pm-4pm (via Zoom or Discord), and by appointment outside 
 ### COURSE DESCRIPTION  
 Students learn to sense and control the physical world through hardware and software, creating interactive interfaces beyond conventional computing. Students gain skills in basic electronics, circuit assembly, and microcontroller programming for sensor and actuator control. The course culminates in a self-directed physical computing project, moving through a design process from ideation to functional prototype.
      
-
 ### LEARNING OUTCOMES       
 For the successful completion of this course, a student should be able to:    
 * Write code to program a microcontroller. 
@@ -36,7 +34,6 @@ For the successful completion of this course, a student should be able to:
 * Conduct and integrate independent technical research into project development.  
 * Complete a self-driven physical computing project, from ideation through final prototype.  
    
-  
 ###  COURSE STRUCTURE  
 The course combines lectures, critiques, discussions, and studio/lab time. Typically, students work on technical exercises each week, along with short study projects applying these newly learned techniques. There will be two larger projects during the semester (a midterm and final project), mostly independently driven, with iterative project development. Course materials and assignments for the week’s session will be posted to GitHub on the same day of class. Assignments are due before the next class session begins. All sessions will be held in person.
 
@@ -47,9 +44,10 @@ The course combines lectures, critiques, discussions, and studio/lab time. Typic
 * Final Project – a largely self-directed work, supported by independent research and iterative project development. Students present proposals for the instructor to green-light, which includes a calendar of tasks and deliverables. These are multi-week, scaffolded projects with work-in-progress deadlines, peer playtesting, and final critiques.   
   
 ## REQUIRED MATERIALS               
-* [Electronics Kit]()
+* [Electronics Kit](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Spring2026/blob/main/electronics%20kit/eKit.md)
 
-* A Mac or PC computer with internet access for assignments outside of class (either your own, or from a lab on campus).
+* A Mac or PC computer with internet access.
+
 * Free software and accounts: Discord, Github, Arduino IDE, VS Code, Web Browser.       
     
 ## EXPECTATIONS    
@@ -66,7 +64,7 @@ By signing up for this class, you are making a **commitment to fully participate
 * **To contact your instructor with a brief, private question or message**, send a DM (Direct Message) through Discord. This is preferred over email.  
 * **If you have a question that may be relevant to the group**, post in the #general channel on Discord for all to see and comment on.      
 * Use Discord for **easy communications with your classmates** as well—you can DM individuals or selected groups.  
-* **To discuss a longer matter** with your instructor, set up an appointment for office hours.  
+* **To discuss a longer matter** with your instructor, schedule an appointment for office hours.  
   
 ## PARTICIPATION POLICY (The Rules + Regulations for Keeping the Ship Sailing)     
 * **We will begin promptly at the start of each class.**           
@@ -77,14 +75,12 @@ By signing up for this class, you are making a **commitment to fully participate
 * Each student is asked to play their part in supporting our class, by **contributing regularly to peer groups** via Discord, for feedback and technical support.               
 * **Midterm and Final Project critiques are mandatory and cannot be made up.** Missing a critique will result in a deduction of one letter grade for the corresponding project.                    
 
-
 ## GRADING    
 **COURSE GRADING**  
 * Participation: 20%  
 * Weekly "Short Study" Assignments: 35%  
 * Midterm Project: 20%  
-* Final Project: 25%
-     
+* Final Project: 25% 
          
 Participation will be graded out of 3 points:   
 3 = full participation: fully present, on task, and supportive of classmates throughout the class session.   
@@ -95,7 +91,7 @@ Participation will be graded out of 3 points:
 Weekly "Short Study" Assignments will be graded out of 10 points, based on completion of requirements.
 Midterm and Final projects will be graded on a standard A-F scale, according to criteria detailed in the final project assignment.
   
-_All work must be submitted on time. Late assignments will not be accepted. Please contact your instructor if there are extenuating circumstances, in which case lateness may be excused on a case by case basis._     
+_All work must be submitted on time. Late assignments will not be accepted. Please contact your instructor prior to the due date if there are extenuating circumstances, in which case lateness may be excused on a case by case basis._     
 
   
 ## ACADEMIC INTEGRITY POLICY
@@ -221,4 +217,5 @@ TOPIC
 
 **SESSION 15: [5/20]**    
 TOPIC   
+
 * **FINAL PROJECTS DUE: Project Presentations / Critiques**

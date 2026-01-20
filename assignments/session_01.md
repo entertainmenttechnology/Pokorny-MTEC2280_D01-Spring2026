@@ -13,10 +13,10 @@
 
 ## SESSION 01 - Assignments
 
-* Order your [Electronics Kit](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fall2025/blob/main/electronics%20kit/eKit.md) as soon as possible.      
-**You must gather these supplies before 9/10 session.**    
+* Order your [Electronics Kit](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Spring2026/blob/main/electronics%20kit/eKit.md) as soon as possible.      
+**You must gather these supplies before 2/11 session.**    
 
-* Follow these instructions for [setting up your GitHub repo](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fall2025/blob/main/getting%20started%20with%20github/github%20instructions.md).        
+* Follow these instructions for [setting up your GitHub repo](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Spring2026/blob/main/resources/github%20-%20getting%20started.md).        
 Create a repo for this class, and send me the url via Discord DM.
 
 * Join our Discord server (check your City Tech email for the invite link. If you did not receive it, email me at IPokorny@citytech.cuny.edu)
