@@ -9,6 +9,8 @@
 
 * [Alvin Lucier - Music for Solo Performer](https://www.youtube.com/watch?v=bIPU2ynqy2Y)
 
+* [Pocket Scion](https://www.youtube.com/watch?v=6mfV8axg-Hc)
+
 * [Cockroach Robot](https://www.youtube.com/watch?v=7mTb7LYj7KE)
 
 ## SESSION 01 - Assignments
