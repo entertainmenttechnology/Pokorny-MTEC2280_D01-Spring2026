@@ -2,7 +2,7 @@
 
 1. [Ryan](https://github.com/RyMayleas/PhysComp_Ryan)
 
-2. 
+2. [Eric](https://github.com/EricJ2001/EricW-MTEC2280-Spring2026)
 
 3. 
 
