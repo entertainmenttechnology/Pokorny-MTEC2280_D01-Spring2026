@@ -4,7 +4,7 @@
 
 2. [Eric](https://github.com/EricJ2001/EricW-MTEC2280-Spring2026)
 
-3. 
+3. [Florence](https://github.com/FlorenceEtienne/MTEC2280_FlorenceEtienne_26)
 
 4. 
 
