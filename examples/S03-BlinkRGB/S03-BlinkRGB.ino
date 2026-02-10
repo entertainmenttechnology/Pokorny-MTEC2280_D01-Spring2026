@@ -6,12 +6,12 @@
   - RGB LED @ GPIO Pin 38
   - There is a library for the RGB LED provided in the ESP framework.
   - library provides the function RGBLedWrite:
-  void rgbLedWrite(uint8_t pin, uint8_t red_val, uint8_t green_val, uint8_t blue_val)
+  void rgbLedWrite(int pin, int red_val, int green_val, int blue_val)
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 */
-const uint8_t pinRGB = 38;
-uint8_t brightness = 4; //max is 255, very bright!
-uint16_t delayTime = 1000;
+const int pinRGB = 38;
+int brightness = 4; //max is 255, very bright!
+int delayTime = 1000;
 
 void setup() 
 {
