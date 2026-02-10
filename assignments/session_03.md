@@ -18,8 +18,6 @@ Send me the the link to your GitHub repo (URL, not .git) via Discord if you have
 
 ### Familiarize yourself with:
 
-* [What pins can I use on the ESP32-S3 Dev Board?](https://www.luisllamas.es/en/which-pins-can-i-use-on-esp32-s3/)
-
 * [ESP32-S3 Pin Layout Diagram](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/_images/ESP32-S3_DevKitC-1_pinlayout_v1.1.jpg)
 
 * [ESP32-S3 PinOut Explained](https://www.luisllamas.es/en/esp32-s3-hardware-details-pinout/)
@@ -31,3 +29,11 @@ Send me the the link to your GitHub repo (URL, not .git) via Discord if you have
 ### If your ESP32 Board is not showing up as a Serial Comm Port...
 Download & Install the latest [Silicon Labs Virtual COM Port Drivers](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) for your operating system.   
 Please reach out to me ASAP if you run into any issues.
+
+_If your esp32 dev board keeps crashing, becomes completely unresponsive, or you are no longer able to upload any sketch to it, you can put it in Bootloader Mode:_   
+1. Unplug microUSB cable to power off board.
+2. Hold down BOOT button.
+3. Continue to hold down BOOT button, plug in microUSB cable to UART port.
+4. Press RESET while still holding down BOOT.
+5. Release RESET, then release BOOT. 
+6. The board should now be ready for firmware upload. I recommend flashing a simple sketch such as a serial "hello world" test or LED blink to confirm normal operation.
