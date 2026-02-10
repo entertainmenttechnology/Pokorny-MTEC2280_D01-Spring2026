@@ -8,6 +8,16 @@
 - Simple demo of using digitalWrite to turn an LED on/off.
     - Connect LED circuit to GPIO Pin 4
     - NOTE: Don't forget your current-limiting resistor!
+
+REFERENCE:
+- digitalWrite() function reference:
+https://docs.arduino.cc/language-reference/en/functions/digital-io/digitalwrite/
+- delay() function reference:
+https://docs.arduino.cc/language-reference/en/functions/time/delay/
+- pinMode() function reference:
+https://docs.arduino.cc/language-reference/en/functions/digital-io/pinMode/
+- Serial.begin() function reference:
+https://docs.arduino.cc/language-reference/en/functions/communication/serial/begin/
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 */
 

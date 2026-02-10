@@ -38,7 +38,7 @@ void loop() //loop() function runs forever
   Serial.print("Loop Count = ");
   Serial.println(loopCount);
 
-  //on our ESP32 board, you can also use Serial.prinf():
+  //on our ESP32 board, you can also use Serial.printf():
   //Serial.printf("Hello World! The loop count is now %d \n", loopCount);
 
   delay(ms); //wait specified amount of time before proceeding, in milliseconds
