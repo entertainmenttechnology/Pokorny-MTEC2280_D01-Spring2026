@@ -11,12 +11,12 @@ _Have an idea for this list? DM me on Discord!_
 ### Arduino & ESP32-S3      
 [Arduino - Programming Language Reference](https://docs.arduino.cc/language-reference/#functions)        
 [Arduino - IDE Documentation](https://docs.arduino.cc/software/ide/)    
-[Installing ESP-32 Support in Arduino IDE](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html)     
-[ESP32-S3 Dev Kit - Getting Started Guide](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/user_guide.html#getting-started)         
+[Installing ESP-32 Support in Arduino IDE](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html) (only read until "Windows - manual installation")  
+[ESP32-S3 Dev Kit - Getting Started Guide](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-devkitc-1/user_guide_v1.1.html)         
 [ESP32-S3 Dev Kit - Pin Layout Diagram](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/_images/ESP32-S3_DevKitC-1_pinlayout_v1.1.jpg)     
 [ESP32-S3 Dev Kit - Dimensions](https://dl.espressif.com/dl/schematics/esp_idf/DXF_ESP32-S3-DevKitC-1_V1.1_20220429.pdf)            
 [ESP32-S3 Dev Kit - Schematic](https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DevKitC-1_V1.1_20221130.pdf)      
-[FTDI Virtual COM Port Drivers](https://ftdichip.com/drivers/vcp-drivers/)       
+[Silicon Labs Virtual COM Port Drivers](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)       
 
 _If your esp32 dev board keeps crashing, becomes completely unresponsive, or you are no longer able to upload any sketch to it, you can put it in Bootloader Mode:_   
 1. Unplug microUSB cable to power off board.

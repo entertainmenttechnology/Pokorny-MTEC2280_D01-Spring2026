@@ -8,7 +8,7 @@
 
 4. [Patrick](https://github.com/PatrickMannix/PhysComp_Patrick)
 
-5. 
+5. [Amelie](https://github.com/AmelieBajor/MTEC_2280_AmelieBajor)
 
 6. 
 
