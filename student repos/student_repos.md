@@ -6,7 +6,7 @@
 
 3. [Florence](https://github.com/FlorenceEtienne/MTEC2280_FlorenceEtienne_26)
 
-4. 
+4. [Patrick](https://github.com/PatrickMannix/PhysComp_Patrick)
 
 5. 
 
