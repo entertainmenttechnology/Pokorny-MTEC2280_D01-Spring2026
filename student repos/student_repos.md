@@ -10,7 +10,7 @@
 
 5. [Amelie](https://github.com/AmelieBajor/MTEC_2280_AmelieBajor)
 
-6. 
+6. [Kenan](https://github.com/kenane2005/MTEC_2280_Kenan-Esso)
 
 7. 
 
