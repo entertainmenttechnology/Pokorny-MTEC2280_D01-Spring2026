@@ -12,7 +12,7 @@ Must Include:
 - use of logical comparator in at least one conditional statement.
 - at least one pushbutton.
 - use of digitalRead(), digitalWrite(), and pinMode() functions.
-- display of at least 6 unique LED patterns.
+- display of at least 4 unique LED patterns.
 
 Send me the the link to your GitHub repo for this class (URL, not .git) via Discord (or email) if you have not already done so. This is where I will check for your completed work from now on.
 
