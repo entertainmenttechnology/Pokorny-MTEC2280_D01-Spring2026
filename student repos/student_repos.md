@@ -12,11 +12,11 @@
 
 6. [Kenan](https://github.com/kenane2005/MTEC_2280_Kenan-Esso)
 
-7. 
+7. [Isaiah](https://github.com/IsaiahSantiago/MTEC2280-Repo)
 
-8. 
+8. [Ash](https://github.com/Ash-F04/Physical-Computing-work)
 
-9. 
+9. [Journey](https://github.com/journx/JourneyFord_MTEC2280)
 
 10. 
 
