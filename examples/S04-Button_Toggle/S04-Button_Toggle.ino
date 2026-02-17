@@ -17,14 +17,16 @@ bool lastButtonState = 0; //previous button state
 bool toggle = 0;          //toogle bool for rising edge
 bool fallToggle = 0;      //toggle bool for falling edge
 
-void setup() {
+void setup() 
+{
   pinMode(buttonPin, INPUT_PULLUP);
   pinMode(ledPin, OUTPUT);
 
   Serial.begin(115200);
 }
 
-void loop() {
+void loop() 
+{
   buttonState = !digitalRead(buttonPin);
 
   //RISING EDGE DETECTION
