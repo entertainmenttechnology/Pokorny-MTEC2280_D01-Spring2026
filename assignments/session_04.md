@@ -27,9 +27,9 @@ The arduino .ino file must be in a folder of the same name. For example, the ard
 
 * [digitalWrite()](https://docs.arduino.cc/language-reference/en/functions/digital-io/digitalwrite/)
 
-* [if statements](https://docs.arduino.cc/language-reference/en/structure/control-structure/if/)
-* [if / else statements](https://docs.arduino.cc/language-reference/en/structure/control-structure/else/)  
+* [if statements](https://docs.arduino.cc/language-reference/en/structure/control-structure/if/): take note of  "Comparison Operators"
 
+* [if / else statements](https://docs.arduino.cc/language-reference/en/structure/control-structure/else/)  
 
     BOOLEAN (1-BIT) Operators:
 * [&& (logical AND)](https://docs.arduino.cc/language-reference/en/structure/boolean-operators/logicalAnd/)
