@@ -18,9 +18,9 @@
 
 9. [Journey](https://github.com/journx/JourneyFord_MTEC2280)
 
-10. 
+10. [Jose](https://github.com/Phantom-soup/Jose-MTEC2280)
 
-11.
+11. [Jeremy](https://github.com/jerperricone/PhysComp_Jeremy)
 
-12.
+12. 
 
