@@ -1,8 +1,8 @@
 
 ## SESSION 05
 
-## MIDTERM WIP DUE 10/15
-See [MIDTERM](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fall2025/blob/main/assignments/MIDTERM.md) for more info.
+## MIDTERM WIP DUE 3/4
+See [MIDTERM](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Spring2026/blob/main/assignments/MIDTERM.md) for more info.
 
 ### Familiarize yourself with:
 
