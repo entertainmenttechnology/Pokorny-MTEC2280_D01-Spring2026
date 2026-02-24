@@ -12,3 +12,4 @@ See [MIDTERM](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Sp
 
 * [touchRead()](https://randomnerdtutorials.com/esp32-touch-pins-arduino-ide/) - NOTE: this is ESP32 specific
 
+* [analogWrite()](https://docs.arduino.cc/language-reference/en/functions/analog-io/analogWrite/) - we will cover this topic in more depth next week
