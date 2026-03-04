@@ -1,8 +1,8 @@
 
 ## SESSION 06
 
-## MIDTERM DUE 5/11
-See [MIDTERM]() for more info.
+## MIDTERM DUE 3/11
+See [MIDTERM](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Spring2026/blob/main/assignments/MIDTERM.md) for more info.
 
 ### Familiarize yourself with:
 
@@ -10,7 +10,7 @@ See [MIDTERM]() for more info.
 
 * [tone()](https://docs.arduino.cc/language-reference/en/functions/advanced-io/tone/)
 
-* [analogWriteFrequency()](https://randomnerdtutorials.com/esp32-pwm-arduino-ide/) - NOTE: this is ESP32 specific
+* [Software Timer - "blink without delay"](https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/)
 
 * [Installing Libraries in Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
 
