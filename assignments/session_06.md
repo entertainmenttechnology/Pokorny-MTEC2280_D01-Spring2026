@@ -10,6 +10,8 @@ See [MIDTERM](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D01-Sp
 
 * [tone()](https://docs.arduino.cc/language-reference/en/functions/advanced-io/tone/)
 
+* [map()](https://docs.arduino.cc/language-reference/en/functions/math/map/)
+
 * [Software Timer - "blink without delay"](https://docs.arduino.cc/built-in-examples/digital/BlinkWithoutDelay/)
 
 * [Installing Libraries in Arduino IDE](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
