@@ -1,16 +1,15 @@
 
 ## SESSION 07
 
-## MIDTERM VERSION 2 DUE: 10/29
+## OPTIONAL: MIDTERM VERSION 2 - DUE 3/18
      
 Based on feedback received during playtesting, do a 2nd iteration of your Midterm. Make sure you have included all the required elements from the assignment. Focus on debugging and user interface improvements rather than introducing new systems or elements.
 
 See [MIDTERM](https://github.com/entertainmenttechnology/Pokorny-MTEC2280_D10-Fall2025/blob/main/assignments/MIDTERM.md) for initial assignment details.
 
-## SHORT SKETCH #3: DUE 11/05
-Since we didn't finish covering serial communication from microcontroller to p5.js in class, this will be due in two weeks. I will repost in Session 08 assignments as well.
+## SHORT SKETCH #3: DUE 3/18
 
-Use a single hardware analog sensor to control a software p5.js sketch. You may use either a photocell/LDR or Potentiometer as your sensor. The p5,js sketch must include:
+Use a single hardware analog sensor to control a software p5.js sketch. You may use either a photocell/LDR or Potentiometer as your sensor. The p5.js sketch must include:
 - use of analog sensor data to control multiple elements of your P5 sketch. For example:
     - fill color, background color, shape size, shape location, etc.
 - use of map() function
@@ -49,5 +48,6 @@ REMEMBER to add the p5.serialport library to the index.html file of your p5.js p
 
 * [Visual Studio CODE](https://code.visualstudio.com/download), not Visual Studio, and install the p5.js extension (instructions [here](https://p5js.org/tutorials/setting-up-your-environment/))
 
-Upload your completed code (both arduino & p5.js) to your repo before the beginnning of next class session. Remember, the arduino .ino file must go in folder of same name, and the p5.js project must include its entire project folder and it contents.   
+Upload your completed code (both arduino & p5.js) to your repo before the beginnning of next class session.   
+Remember, the arduino .ino file must go in folder of same name, and the p5.js project must include its entire project folder and it contents.   
 Have your project (both hardware and software aspects) ready to present at the next class critique.
