@@ -2,7 +2,17 @@
 P5.JS SERIAL SEND STRING
 
 An example p5.js sketch that uses the p5.serialport library to send a string across serial port.
-Plays tone at varying frequency on piezo buzzer when mouse is pressed and dragged.
+Fades between two PWM LEDs via serial comms.
+
+MOUSE X POSITION = FADES BETWEEN BRIGHTNESS OF TWO LEDS
+- When mouse is on left half of canvas, left LED is brighter.
+- When mouse is on right half of canvas, right LED is brighter.
+- When mouse is in middle of canvas, both LEDs are at equal brightness.
+- When mouse is NOT pressed, the brightness of both LEDs will fade in and out.
+
+- We can send any value or character we want to our Microntroller via.
+- Useful when you want to use values larger than the 255 (8-bit) limit of serial.write() function.
+- However, we will need to parse the string on the Microcontroller into an integer (see Arduino_Serial_String.ino).
 
 This code is designed to work with the "Arduino_Serial_String" example sketch.
 
@@ -22,13 +32,12 @@ let serial; // variable for instance of the serialport library
 let portName = '/dev/tty.usbserial-213320'; // fill in your serial port name
 let options = { baudRate: 9600}; // change the baud rate to match your Arduino code
 let outVal = 0; // value to be sent via serial
+let rate = 40; // variable to control speed and direction of fading effect
 
 function setup() 
 {
+  //P5.JS Setup
   createCanvas(800, 400);
-  textAlign(CENTER, CENTER);
-  textSize(36);
-  strokeWeight(127);
 
   //P5 SerialPort Setup
   serial = new p5.SerialPort();             // make a new instance of the serialport library
@@ -44,30 +53,40 @@ function setup()
 
 function draw() 
 {
-  background(0, 4); // black background with low opacity
+  background(0, 4); // black background with low opacity for trailing effect
   
-  if(mouseIsPressed)  //if mouse is clicked...
+  if(mouseIsPressed)  //if mouse is pressed...
   {
-    fill(255, 64);  //set white stroke color with some transparency
-    noStroke();
-    circle(mouseX, height/2, 127); // draw circle at mouse position
-    xPos = constrain(mouseX, 0, width); // constrain xPos to canvas width
-    outVal = map(xPos, 0, width, 100, 1000);  // map xPos to range 100-1000Hz
-    outVal = floor(outVal); // convert to integer by cutting off decimal
-    serial.write(outVal + '/n'); //convert to string, and send via serial with newline character at end of message
+    fill(0, 255, 0, 4);                     // set green fill color with transparency
+    rect(0, 0, width/2, height);            // draw rectangle on left half of canvas
+    fill(255, 255, 0,4);                    // set yellow fill color with transparency
+    rect(width/2, 0, width, height);        // draw rectangle on right half of canvas
+    fill(255);                              // set white stroke color with some transparency
+    circle(mouseX, height/2, 127);          // draw circle at mouse position
+    xPos = constrain(mouseX, 0, width);     // constrain xPos to canvas width
+    outVal = map(xPos, 0, width, 0, 2000);  // map xPos to 0  to 2000
+    outVal = floor(outVal);                 // convert to integer by cutting off decimal
+    print(outVal);                          // print the output value to the console for debugging
+  }
+  else  //if mouse is not pressed...
+  {
+    outVal += rate; //adjust outVal by adding rate for fading effect
+
+    if (outVal <= 0 || outVal >= 2000) // if outVal goes outside of range, change direction
+    {
+      rate *= -1; // change rate direction
+    }
+
+    print(outVal); // print the output value to the console for debugging
+  }
+
+  serial.write(outVal + '/n'); //convert to string, and send via serial with newline character at end of message
 
     /*
     by adding the newline '/n' character to serial.write message, we are:
     - converting the integer outVal into a string through concatenation.
     - adding a delimiter of newline character so that arduino side will know when the message ends.
     */
-
-    print(outVal); // print the output value to the console for debugging
-  }
-  else
-  {
-    serial.write(0 + '/n'); // send 0 when mouse is not pressed
-  }
 }
 
 function portOpen() //gets called when the serial port opens
