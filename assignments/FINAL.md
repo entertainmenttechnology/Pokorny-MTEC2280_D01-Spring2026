@@ -8,7 +8,7 @@ The time has arrived! Our final weeks of the semester will focus on final projec
 * final development
 * testing and debugging
 
-These projects include an independent research component, based on your interests. As you propose and develop your project, it is critical to scope your project appropriately for the given timeline, your current skillset, and available tools and materials. You may also choose to work in a team of 2, but team projects should reflect this with larger scope and sophistication.
+These projects include an independent research component, based on your interests. As you propose and develop your project, it is critical to scope your project appropriately for the given timeline, your current skillset, and available tools and materials. You may also choose to work in a team of 2, but these projects should have larger scope and sophistication than solo projects.
 
     
 ## Project Parameters  
