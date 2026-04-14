@@ -38,12 +38,13 @@ Want to explore a new sensor outside of your kit? Consider a [tilt sensor](https
 This project should be driven by your interests! It can be practical, design-driven, art-driven, absurd... it's up to you to drive it!    
 
 Some ideas might include: 
-* a custom, sensor-based controller for interactive narrative or a simple game in P5, Unity, etc.
+* a custom, sensor-based controller for interactive narrative or a simple game in P5.JS, Unity, etc.
 * an object-based controller for sound or video software in P5.JS, Max/Msp, etc.
 * a standalone interactive object or sculpture that can optionally be controlled by software serial.    
 * a device that makes an everyday object "smart" or augments your environment (interactive door, chair, mirror, table, etc.)
 
-Consider found objects and cheap materials around you, including cardboard, fabric, plastic food containers, etc.  You may build off of your midterm or a prior short study for this project.   
+Consider found objects and cheap materials around you, including cardboard, fabric, plastic food containers, etc.  
+You may build off of your midterm or a prior short study for this project.   
 
 ## To Include in Your Proposal (**Due Wednesday 4/29**):   
 _ALL of the items below must be complete for the proposal to receive a green light:_ 
