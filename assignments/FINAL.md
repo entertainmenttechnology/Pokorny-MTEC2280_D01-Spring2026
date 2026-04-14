@@ -8,7 +8,7 @@ The time has arrived! Our final weeks of the semester will focus on final projec
 * final development
 * testing and debugging
 
-These projects include an independent research component, based on your interests. As you propose and develop your project, it is critical to scope your project appropriately for the given timeline, your current skillset, and available tools and materials. You may also choose to work in teams of 2, but team projects should reflect this with larger scope and sophistication.
+These projects include an independent research component, based on your interests. As you propose and develop your project, it is critical to scope your project appropriately for the given timeline, your current skillset, and available tools and materials. You may also choose to work in a team of 2, but team projects should reflect this with larger scope and sophistication.
 
     
 ## Project Parameters  
@@ -90,13 +90,11 @@ _AKA Getting Creative in Your "Home Lab"_
 * Consider found objects for enclosures.  
 * Attach lightweight objects to [plastic horns](https://www.adafruit.com/product/4250) that snap onto servo motors. Use materials such as paper, cardboard, thin plastic, or fabric; and attach using thin gauge wire, thread, fishing wire, tape, or glue.       
   
-  
 **Tips for Wiring Without Soldering:**   
 * Use [female/female jumpers](https://www.adafruit.com/product/1950) (included in your kits) for extending wires without soldering. Wrap tape around connections for increased sturdiness.     
 * [Alligator clips](https://www.adafruit.com/product/1008?gclid=CjwKCAiAzNj9BRBDEiwAPsL0dz8lR2s8ktS_nlWKyUcZjFXcB8JZKju4dqQ7s20QHRiRKcVvfP1-rRoCZKMQAvD_BwE) are also useful for extending wires and connecting to components, particularly if needing to connect wires to [panel mount pushbuttons](https://www.adafruit.com/product/1505?gclid=CjwKCAiAzNj9BRBDEiwAPsL0dxWLS20SCKN98w7zEEvGaQ1A3ecG9Ipk3L3E2sz8AOLUzpLZ3ucyjhoCMCsQAvD_BwE).   
 * Most of you will be using 22 gauge solid core wire (included in your kits). For those wishing to connect stranded wire without soldering, one option is to use [wire nuts](https://www.homedepot.com/p/Gardner-Bender-Wire-Connector-Kit-22-6-AWG-570-Pieces-CK-570/205874695?MERCH=REC-_-rv_search_plp_rr-_-NA-_-205874695-_-N). For connecting stranded wire to breadboards, [terminal blocks](https://www.adafruit.com/category/334) are handy.   
 * Check out these tips for [mounting components within a matboard enclosure](https://vimeo.com/showcase/2801639/video/79552841). This also gets into wire wrapping with perf board, which does not need soldering but does need specialized tools. 
-
 
 **Soldering Demos and Guides:**   
   
