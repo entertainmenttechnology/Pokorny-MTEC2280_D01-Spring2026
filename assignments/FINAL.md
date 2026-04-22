@@ -65,7 +65,7 @@ _**Send proposals before class on 4/29 via Discord or Email, as a PDF labeled as
 * Final code submitted to GitHub as "FinalProject_title" 
 * A short video sent via Discord documenting the project in action. (This does not need to be a fancy or high production video, but it should be of a quality that you can use within 
  a portfolio.)    
-* Project set up for live exhibition and playtesting at the beginning of our class on 12/17. Since this is a physical computing class, you must be physically present and exhibit your project to receive full credit.
+* Project set up for live exhibition and playtesting at the beginning of our final class session. Since this is a physical computing class, you must be physically present and exhibit your project to receive full credit.
 
 ## Code Notes:  
 * In-progress code should be consistently pushed to your GitHub repo.
