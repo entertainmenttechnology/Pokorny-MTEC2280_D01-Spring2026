@@ -35,7 +35,7 @@ void setup()
   pinMode(buttonPin_2, INPUT_PULLUP);
   pinMode(ledPin, OUTPUT);
   digitalWrite(ledPin, 0);
-  analogReadResolution(12);  //set ADC from 0 to 1023 range
+  analogReadResolution(12);  //set ADC from 0 to 4095 range
   Serial.begin(9600);        //open serial port at 9600bps
 }
 
